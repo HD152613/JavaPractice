@@ -26,7 +26,7 @@ public class Operater {
 		long don = 1700000L;
 		int people = 3;
 		int gagae = 1500;
-		
+		//
 		long total = don  * 12 * people * gagae;
 		System.out.println("월 평균 급여 : " + String.format("%,d", don) +"원");
 		System.out.println("점포 내 직원 수 : " + people + "명");
