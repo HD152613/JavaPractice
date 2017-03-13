@@ -17,7 +17,7 @@ package org.dimigo.basic;
  * @Versiion : 	1.0
  *
  */
-public class Operater {
+public class Operator {
 
 	/**
 	 * @param args
