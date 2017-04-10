@@ -17,7 +17,7 @@ package org.dimigo.oop;
  * @Versiion : 	1.0
  *
  */
-public class ldolGroup {
+public class IdolGroup {
 
 	/**
 	 * @param args
@@ -41,3 +41,4 @@ public class ldolGroup {
 	}
 
 }
+
