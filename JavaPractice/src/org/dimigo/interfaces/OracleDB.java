@@ -1,7 +1,7 @@
 /**
  * 
  */
-package interfaces;
+package org.dimigo.interfaces;
 
 /**
  * <pre>
@@ -17,17 +17,17 @@ package interfaces;
  * @Versiion : 	1.0
  *
  */
-public class SybaseDB implements IDBManager{
+public class OracleDB implements IDBManager{
 	public void insert(){
-		System.out.println("Sybase DB 저장");
+		System.out.println("Oracle DB 저장");
 	}
 	public void search(){
-		System.out.println("Sybase DB 조회");
+		System.out.println("Oracle DB 조회");
 	}
 	public void update(){
-		System.out.println("Sybase DB 변경");
+		System.out.println("Oracle DB 변경");
 	}
 	public void delete(){
-		System.out.println("Sybase DB 삭제");
+		System.out.println("Oracle DB 삭제");
 	}
 }
